@@ -1,0 +1,6 @@
+sno;clientid;clientcode;clientname;fileformat;delimiterchar;qoutedidentifiersreqd;qoutedidentifier;outputfilefolder;outputfilename
+1;aaa;01;harshitha;delimiter;|;y;^"^;C:\software\New folder\pdi-ce-8.3.0.0-371\data-integration;op1.csv
+2;bbb;02;suji;delimiter;$;y;^"^;C:\software\New folder\pdi-ce-8.3.0.0-371\data-integration;op2.csv
+3;ccc;03;raghul;fixedlength;^^;y;^"^;C:\software\New folder\pdi-ce-8.3.0.0-371\data-integration;op3.csv
+4;ddd;04;sayee;excel;^^;n;^^;C:\software\New folder\pdi-ce-8.3.0.0-371\data-integration;op4.csv
+5;eee;05;agasthian;excel;^^;n;^^;C:\software\New folder\pdi-ce-8.3.0.0-371\data-integration;op5.csv

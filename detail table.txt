@@ -1,0 +1,8 @@
+sno,dfcmsno,clientid,clientcode,fieldsequence,fieldname,fieldlength,fixedlengthfiller,rightleftpad,datafield,dataformatreqd,dataformat,qoutedidentifiersreqd
+1,11,aaa,01,1,,,0,,amount,y,string,y
+2,22,bbb,02,1,,20,0,r,amount,y,string,y
+3,22,bbb,02,1,,20,0,r,firstname,y,string,y
+4,22,bbb,02,1,,20,0,r,lastname,y,string,y
+4,33,ccc,03,1,,,1,l,amount,y,string,y
+5,44,ddd,04,1,totalamount,,0,,amount,y,string,n
+6,55,eee,05,1,totalamount,,0,,amount,y,string,n
